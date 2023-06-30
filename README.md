@@ -1,3 +1,7 @@
+Original project: https://github.com/dead8309/kizzy-demo-ts
+
+This is better than Kotlin
+
 # next-template
 
 A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
